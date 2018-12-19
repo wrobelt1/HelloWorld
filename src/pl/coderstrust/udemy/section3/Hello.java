@@ -5,5 +5,6 @@ public class Hello {
         System.out.println("Hello World");
         System.out.println("Druga linijka Hello World");
         System.out.println("Trzecia linia");
+        System.out.println("Linia dodana po czasie");
     }
 }
